@@ -50,7 +50,7 @@ I'm a Back-End Developer who builds web sites using PHP and Js technologies such
 <img align="left" alt="Git"     width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 <img align="left" alt="React"    width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
 <img align="left" alt="express"    width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" />
-          
+<img align="left" alt="next-js"    width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
           
 [//]: <> (<img align="left" alt="Java" width="30px" style="padding-right:10px" src="https://www.apachefriends.org/images/xampp-logo-ac950edf.svg" />)
 [//]: <> (<img align="left" alt="Java" width="30px" style="padding-right:10px" src="https://herd.laravel.com/images/appicon.png" />)
