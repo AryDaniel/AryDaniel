@@ -13,14 +13,14 @@
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/AryDaniel?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 </p>
 --> 
-# About
+# <code>About</code>
 I'm a Back-End Developer who builds web sites using PHP and Js technologies such as Laravel, and Node.Js, and MySQL. I have worked on a small team using SCRUM and Git-Flow.
 
 [//]: <> (I love exploring new technologies.)
 
 <br>
 
-# Connect with me:
+# <code>Connect with me:</code>
 
 [<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="30" height="30">](https://www.linkedin.com/in/arydaniel/)
 &nbsp;&nbsp;&nbsp;&nbsp;
@@ -29,7 +29,7 @@ I'm a Back-End Developer who builds web sites using PHP and Js technologies such
 
 <br>
 
-# Languages 
+# <code>Languages</code>
 <img align="left" alt="HTML"    width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />          
 <img align="left" alt="CSS"     width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
 <img align="left" alt="PHP"     width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
@@ -42,7 +42,7 @@ I'm a Back-End Developer who builds web sites using PHP and Js technologies such
 
 <br><br>
 
-# Frameworks, Tools & Libraries
+# <code>Frameworks, Tools & Libraries</code>
 
 <img align="left" alt="Laravel"   width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" />
 <img align="left" alt="NodeJs"   width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
@@ -57,3 +57,7 @@ I'm a Back-End Developer who builds web sites using PHP and Js technologies such
 [//]: <> (<img align="left" alt="Java" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />)
 [//]: <> (<img align="left" alt="Java" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-plain.svg" />)
 [//]: <> (<img align="left" alt="Java" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/composer/composer-original.svg" />)
+
+<br><br>
+# <code>Activity</code>
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AryDaniel&theme=react-dark&hide_title=true&radius=10&area=true)](https://github.com/AryDaniel)
