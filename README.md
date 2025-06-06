@@ -12,12 +12,12 @@
   <a href="https://github.com/AryDaniel?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/AryDaniel?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 </p>
---> 
 # <code>About</code>
 I'm a Back-End Developer who builds web sites using PHP and Js technologies such as Laravel, and Node.Js, and MySQL. I have worked on a small team using SCRUM and Git-Flow.
 
 [//]: <> (I love exploring new technologies.)
 
+--> 
 <br>
 
 # <code>Connect with me:</code>
@@ -58,6 +58,9 @@ I'm a Back-End Developer who builds web sites using PHP and Js technologies such
 [//]: <> (<img align="left" alt="Java" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-plain.svg" />)
 [//]: <> (<img align="left" alt="Java" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/composer/composer-original.svg" />)
 
+<!--
 <br><br>
 # <code>Activity</code>
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AryDaniel&theme=react-dark&hide_title=true&radius=10&area=true)](https://github.com/AryDaniel)
+
+--> 
